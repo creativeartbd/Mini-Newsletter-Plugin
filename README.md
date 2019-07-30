@@ -27,9 +27,9 @@ After that, you can see a new menu called \"Mini Newsletter\" to the list of the
 2) Email List
 3) Send Newsletter
 
-##### Under this Mini Newsletter page, you can change the default settings. 
-##### Under Email List page, you can see all subscribers email list. Here you can delete the email too. 
-##### Under Send Newsletter page, You can send email to the custom email address or to your subscribers. You can send a custom email or the latest number of post. 
+>> Under this Mini Newsletter page, you can change the default settings. 
+>> Under Email List page, you can see all subscribers email list. Here you can delete the email too. 
+>> Under Send Newsletter page, You can send email to the custom email address or to your subscribers. You can send a custom email or the latest number of post. 
 
 ### Screenshots
 1. https://prnt.sc/ol5j5i
