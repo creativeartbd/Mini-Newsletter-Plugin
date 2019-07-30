@@ -1,0 +1,29 @@
+.mini-newsletter button {
+    position: absolute;
+    background: #47BB8F;
+    color: #ffffff;
+    height: 40px;
+    right: 5px;
+    top: 5px;
+    width: 40px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+}
+
+.mn_error_message {
+    background-color: #ffcfcf;
+    padding: 1px 10px;
+    border-left: 4px solid red;
+    margin-top: 20px;
+    color: #000;
+    margin-bottom: 10px;    
+}
+.mn_update_message {
+    background-color: #dbf2cf;
+    padding: 1px 10px;
+    border-left: 4px solid #3b562e;
+    margin-top: 20px; 
+    color: #000;
+    margin-bottom: 10px;    
+}
