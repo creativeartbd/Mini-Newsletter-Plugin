@@ -45,7 +45,7 @@ class Mini_Newsletter_Admin {
 		$db_already_exist 		=	!empty ( get_option( 'mn_already_exist' ) ) ? get_option( 'mn_already_exist' ) : __( 'Email address is already exist', 'mini-newsletter' );
 		$db_register_success	=	!empty ( get_option( 'mn_register_success' ) ) ? get_option( 'mn_register_success' ) : __( 'Successfully added to our newsletter', 'mini-newsletter' );
 		$db_header_name			=	!empty ( get_option( 'mn_header_name' ) ) ? get_option( 'mn_header_name' ) : get_bloginfo( 'name' );
-		$db_header_email		=	!empty ( get_option( 'mn_header_email' ) ) ? get_option( 'mn_header_email' ) : 'support@',.$_SERVER['SERVER_NAME'];
+		$db_header_email		=	!empty ( get_option( 'mn_header_email' ) ) ? get_option( 'mn_header_email' ) : 'support@'.$_SERVER['SERVER_NAME'];
 
 		// load the settings tab form		
 		$this->display->mn_settings_tab( $db_titlle, $db_placeholder, $db_incorrect, $db_already_exist, $db_register_success, $db_header_name, $db_header_email ); 	
