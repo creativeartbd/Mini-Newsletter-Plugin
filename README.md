@@ -24,11 +24,11 @@ Activate “Mini Newsletter” from your Plugins page
 After that, you can see a new menu called \"Mini Newsletter\" to the list of the admin menu bar. There is 3 sub-menu available:
 
 1) Mini Newsletter
->> Under this Mini Newsletter page, you can change the default settings. 
+> Under this Mini Newsletter page, you can change the default settings. 
 2) Email List
->> Under Email List page, you can see all subscribers email list. Here you can delete the email too. 
+> Under Email List page, you can see all subscribers email list. Here you can delete the email too. 
 3) Send Newsletter
->> Under Send Newsletter page, You can send email to the custom email address or to your subscribers. You can send a custom email or the latest number of post. 
+> Under Send Newsletter page, You can send email to the custom email address or to your subscribers. You can send a custom email or the latest number of post. 
 
 ### Screenshots
 1. https://prnt.sc/ol5j5i
